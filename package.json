@@ -1,0 +1,43 @@
+{
+  "name": "happy-newyear-wishes",
+  "description": "Happy New Year Greeting Wishes image with Name - Happy New Year Greeting image Generator in Tamil and English.",
+  "private": true,
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "css": "tailwindcss -m -i ./styles/tailwind.css -o styles/app.css",
+    "lint": "eslint . --ext .js --cache",
+    "lintfix": "eslint . --ext .js --fix",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,html}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskian/happy-newyear-wishes.git"
+  },
+  "keywords": [
+    "wishes",
+    "New Year",
+    "2023"
+  ],
+  "author": "Santhosh Veer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mskian/happy-newyear-wishes/issues"
+  },
+  "homepage": "https://github.com/mskian/happy-newyear-wishes#readme",
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "autoprefixer": "10.4.13",
+    "eslint": "^8.30.0",
+    "postcss": "^8.4.20",
+    "prettier": "^2.8.1",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.3"
+  },
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
