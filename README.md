@@ -19,7 +19,8 @@ Happy New Year Greeting Wishes image with Name - Happy New Year Greeting image G
 - Eslint - Fix the Lint Error
 - Prettier - Beautify the Code files
 - Slugify - Slugify the User input and Convert to URL
-- Clouflare pages  
+- Clouflare pages
+- For Analytics I use umami - Remove it or Replace mine with your umami Analytics Script - <https://github.com/umami-software/umami>  
 
 ## Installation 📦
 
