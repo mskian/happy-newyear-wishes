@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "css": "tailwindcss -m -i ./styles/tailwind.css -o styles/app.css",
+    "css": "tailwindcss -m -i ./styles/tailwind.css -o public/css/style.css",
     "lint": "eslint . --ext .js --cache",
     "lintfix": "eslint . --ext .js --fix",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,html}\""
