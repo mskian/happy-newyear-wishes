@@ -35,7 +35,7 @@
     "postcss": "^8.4.20",
     "prettier": "^3.1.0",
     "tailwindcss": "^3.2.4",
-    "vite": "^4.0.3"
+    "vite": "^5.0.4"
   },
   "dependencies": {
     "slugify": "^1.6.5"
