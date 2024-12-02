@@ -8,8 +8,6 @@ Happy New Year Greeting Wishes image with Name - Happy New Year Greeting image G
 
 > Happy New Year Greeting image Maker with Name  
 
-- Live Site - <https://new.sanweb.info>
-
 ## Methods Used ⚙
 
 - HTML/CSS and Javascript
